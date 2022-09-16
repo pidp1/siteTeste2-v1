@@ -1,0 +1,12 @@
+.corpoDoTexto{
+    text-align: left;
+    font-size: 15pt;
+    width: 60%;
+}
+h1{
+    text-align: left;
+}
+.cta{
+    font-size: 25pt;
+    font-weight: bold;
+}
